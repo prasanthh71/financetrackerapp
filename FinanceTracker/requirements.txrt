@@ -1,0 +1,5 @@
+Django==4.2
+dj-database-url==2.3.0
+gunicorn==23.0.0
+psycopg2==2.9.10
+crispy-bootstrap4==2022.1
